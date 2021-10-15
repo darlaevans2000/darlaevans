@@ -42,7 +42,7 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darlaevans2000&repo=rancid-tomatillos&theme=slateorange" />
   </a>
   <a href="https://github.com/darlaevans2000/wondrous-travel">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darlaevans2000&repo=wondrous-travel&theme=slateorange" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darlaevans2000&repo=hi-lo&theme=slateorange" />
   </a>
 </div>
 
