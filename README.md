@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">     Hi there! </h1>
+<h1> Hi there! </h1>
 
 <div>My name is Darla (She/Her). I am a Front End Developer/Web Designer.</div>
 
